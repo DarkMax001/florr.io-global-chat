@@ -38,4 +38,4 @@ Feel free to fork the repo, make changes, and submit pull requests. Just remembe
 ## Contact
 
 Author: DarkMax000111 <- on discord  
-GitHub: [https://github.com/YourUsername/YourRepo](https://github.com/YourUsername/YourRepo)
+GitHub: [[https://github.com/YourUsername/YourRepo](https://github.com/DarkMax001/florr.io-global-chat)]
