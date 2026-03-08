@@ -12,6 +12,10 @@ furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
+// You are free to copy, modify, and share this script *without changing its author*
+// but **you must provide a link to the original repo and creator (DarkMax)** when sharing.
+// ** DEOBFUSCATING, DECODING OR TRYING TO SEND REQUESTS TO THE WEBSOCKET OUTSIDE OF THIS SCRIPT IS STRICTLY NOT ALLOWED** 
+
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
